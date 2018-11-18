@@ -26,7 +26,7 @@ render a more sane size (i.e. `-density 76 -crop 1280x768+0+0`)
 Then:
 
 ```
-./render.sh
+bash render.sh
 ```
 
 (wait some time)
